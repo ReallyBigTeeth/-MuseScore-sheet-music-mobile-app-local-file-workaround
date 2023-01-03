@@ -1,6 +1,10 @@
 # -MuseScore-sheet-music-mobile-app-local-file-workaround
 A fix for those having trouble opening MuseScore files in the mobile app "Musescore: Sheet Music" since the release of MuseScore 4
 
+Software versions as of this writing 2023 Jan 03:
+MuseScore 4 desktop app is in version 4.0.0.223472200
+MuseScore: sheet music mobile app is in version 2.12.3
+
 as of now 2022 Jan 3, the mobile app "MuseScore: sheet music" can't import local mscz files saved in the MuseScore 4 desktop software.  This script is a wrapper for MuseScore's built in command line tools to export files and include style sheets.  This script requres the installation of MuseScore 3 and MuseScore 4 to call those command line tools.
 
 Create a folder to which the converted files will be saved. I created a folder on my desktop called “Mobile MuseScore Sheet Music”.
