@@ -14,3 +14,5 @@ Next, you’ll need to create a default style sheet file. Open MuseScore 3. If y
 At the beginning of the Python script, there are four lines that will need to be changed to match your folder paths and file names. The first two variables (mscore3 and mscore4) are the paths to your MuseScore 3 and 4 executables. The next variable (sourceFolder) is the path to the folder containing the mscz files that you will convert from Musescore 4 format. The last variable (destFolder) is the path to the destination folder that you created which contains the Style-Defaults.mss file.
 
 Run the script and move the newly created mscz files to a folder on your tablet or phone.  Then open the Musescore mobile app, tap the "My Library" icon, tap "Songbook", and import your files.
+
+See this MuseScore forum post for the full write-up: https://musescore.com/groups/musescore-android/discuss/5169686#comment-5929429
